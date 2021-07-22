@@ -6,6 +6,10 @@ a colorize logger for flutter, you can also customize。
 
 一个可以定制的flutter日志系统，debug模式下会打印日志，release模式关闭日志
 
+## screenshots
+
+![截图](./art/screenshot.png)
+
 ## Getting Started
 
 This project is a starting point for a Dart
